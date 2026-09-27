@@ -1,0 +1,52 @@
+I want to create my own responsive frontend portfolio for a university assignment.
+
+My profile:
+- Name: Đức Trọng
+- Role: Software Engineering student
+- Interests: Java/Spring Boot, web development, computer vision, signal processing, and embedded systems.
+
+Portfolio identity:
+- Use a dark navy interface with mint/cyan accents.
+- Make the layout feel like a developer portfolio rather than a generic template.
+- Use my real profile photo in assets/profile.jpg.
+- Keep the writing concise and natural.
+
+Sections:
+1. Home — short introduction, CTA buttons, and small statistics.
+2. About — my learning direction and interests.
+3. Projects — cards for my actual academic/practice projects:
+   - FLearn Active Learning Platform
+   - YOWOv2 Action Recognition
+   - ECG 60 Hz Notch Filter
+   - ESP32 Air Quality Monitor
+   - STM32 Soft UART
+   - Image Segmentation Experiments
+4. Skills — Development, AI/Data, Embedded.
+5. Contact — email, GitHub, and a frontend-only contact form.
+
+Interactions:
+- Responsive mobile navigation.
+- Filter projects by category: All, Web, AI/CV, Embedded, Signal.
+- Clicking a project opens an accessible modal with its description and technologies.
+- Contact form should show a success message without requiring a backend.
+- Add subtle scroll-reveal animations.
+- Keyboard-friendly modal with Escape-to-close.
+- Use semantic HTML and alt text.
+
+Technology:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- No backend
+- No frontend framework
+
+Deliver:
+- index.html
+- styles.css
+- app.js
+- README.md
+
+Important:
+- Keep the code beginner-friendly and easy to explain in class.
+- Do not use a stock/avatar/AI-generated profile image.
+- Make the portfolio visually and textually distinct from the sample templates.
